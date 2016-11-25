@@ -1,3 +1,0 @@
-#Machine Learning in Action Notes
-
-just for keeping...
